@@ -12,7 +12,7 @@ Implement a program to find a valid task execution order using topological sort.
 
 Input Format:
 
-An integer n — number of tasks.
+An integer n — number of tasks. 
 
 An integer m — number of dependencies.
 
